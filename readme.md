@@ -1,0 +1,6 @@
+This project is a modern web application built using React, TypeScript, and Vite, with Tailwind CSS for styling. It is structured as a single-page application where components are defined using TypeScript and JSX 
+(.tsx files), ensuring type safety and developer productivity. The entry point of the app is main.tsx, which renders the main App component into the DOM. The project uses Vite as the build tool, known for its fast
+development server and optimized production builds, configured via vite.config.ts. Styling is handled through Tailwind CSS, configured in tailwind.config.js and processed using PostCSS (postcss.config.js). Code 
+quality and consistency are enforced using ESLint (eslint.config.js). The package.json file defines project metadata, scripts (like npm run dev), and dependencies. The TypeScript configurations are defined in 
+tsconfig.json and related files. Additionally, the presence of a .bolt folder suggests the integration of Bolt AI tooling, possibly for AI-driven code generation or assistant features. Overall, this project is a 
+clean, modular, and scalable frontend application using a modern web development stack, suited for interactive web interfaces or dashboards.
